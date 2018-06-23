@@ -3,11 +3,9 @@
     "languageModel": {
       "invocationName": "audio stream starter",
       "intents": [{
-          "name": "PlayStream",
+          "name": "MyIntent",
           "samples": [
-            "play",
-            "start",
-            "play stream"
+            "MyQuestion"
           ]
         },
         {
